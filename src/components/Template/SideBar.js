@@ -12,7 +12,7 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Gavin J. Huang</h2>
         <p>
           <a href="mailto:gavinhuang2004@gmail.com">gavinhuang2004@gmail.com</a>
         </p>
@@ -22,13 +22,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I&#39;m Gavin. I am a senior at Duke University and
+        Duke Kunshan University, studying Mathematics and Computer Science.
+        In my spare time, I enjoy building bikes, playing trumpet/piano,
+        or playing volleyball or soccer.
       </p>
       <ul className="actions">
         <li>
@@ -48,7 +45,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Gavin J. Huang <Link to="/">gavinjhuang.com</Link>.
       </p>
     </section>
   </section>
