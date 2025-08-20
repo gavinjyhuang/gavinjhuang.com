@@ -14,11 +14,11 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Hi, I&apos;m Gavin</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            A current Senior at Duke Kunshan University, Software Engineering Intern
+            at Aspida, a subsidiary of Ares Management.
           </p>
         </div>
       </header>

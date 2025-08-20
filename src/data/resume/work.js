@@ -13,6 +13,20 @@
  */
 const work = [
   {
+    name: 'Aspida',
+    position: 'Software Engineering Intern',
+    url: 'https://aspida.com',
+    startDate: '2025-05-01',
+    summary: '',
+    highlights: [
+      'Developed the Aspida digital annuities platform in a React, Node + Typescript, and Express environment.',
+      'Coordinated closely with peer engineers on version control and code synchronization on concurrent development.',
+      'Led the design of an internal e-signature platform to replace Docusign,',
+      'Projected to save over $100,000 annually by eliminating $4-per-envelope costs across 30,000+ client contracts.',
+      'Gained experience with IaC through AWS Lambda, Terraform, and agile workflows using Jira + Atlassian suite.',
+    ],
+  },
+  {
     name: 'Duke University Bartesaghi Lab',
     position: 'Electron Microscope Image Processing Researcher',
     url: 'https://www.bartesaghilab.org/',
