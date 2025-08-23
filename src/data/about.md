@@ -1,4 +1,6 @@
-# Intro
+# This page is still under construction, please check back later!
+
+<!-- # Intro
 
 I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
 
@@ -89,4 +91,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - [Tom Sachs](https://www.tomsachs.org/)
 - [Will Holley](https://willholley.com/)
 
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
+If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you. -->
+
+
